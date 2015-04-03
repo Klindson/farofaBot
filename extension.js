@@ -10,7 +10,7 @@
         bot.retrieveSettings();
 
         bot.commands.cookieCommand.cookies =['deu-lhe um biscoito de chocolate!',
-                    'deu-lhe um biscoito de aveia caseiro macio!',
+                    'deu-lhe um biscoito de pênis caseiro macio!',
                     'deu-lhe um biscoito podre e sujo. Era o último do pacote. Que nojo!',
                     'deu-lhe um bolinho de açúcar... O quê? Sem estrelinhas e povilho? Eu não tocaria.',
                     'deu-lhe um biscoito de chocolate. Oh, não, são passas. Eca!',
@@ -18,7 +18,7 @@
                     'deu-lhe um biscoito da sorte, tem escrito: "Por que você não está trabalhando?"',
                     'deu-lhe um biscoito da sorte, tem escrito: "Cumprimente agora a pessoa que você ama"',
                     'deu-lhe um biscoito da sorte, tem escrito: "Arrisque-se!"',
-                    'deu-lhe um biscoito da sorte, tem escrito: "Saia desse computador!"',
+                    'deu-lhe um biscoito da sorte, tem escrito: "Saia desse computador e chupe um negão!"',
                     'deu-lhe um biscoito da sorte, tem escrito: "Não esqueça de comer os vegetais"',
                     'deu-lhe um biscoito da sorte, tem escrito: "Se você mecher o quadril, vão te achar sexy!',
                     'deu-lhe um biscoito da sorte, tem escrito: "Eu te amo"',
@@ -58,7 +58,7 @@
     }
 
         localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Farofinha Bot",
+        botName: "Olá, bem vindo infeliz e volte sempre arrombado :point_right: :ok_hand:",
         language: "portuguese",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/pt.json",
         startupCap: 1,
@@ -69,7 +69,7 @@
         maximumDc: 60,
         bouncerPlus: true,
         lockdownEnabled: false,
-        lockGuard: false,
+        lockGuard: true,
         maximumLocktime: 10,
         cycleGuard: true,
         maximumCycletime: 10,
@@ -104,7 +104,7 @@
         fbLink: "null",
         youtubeLink: null,
         website: "null",
-        intervalMessages: [],
+        intervalMessages: [Olá, bem vindo infeliz e volte sempre arrombado :point_right: :ok_hand:],
         messageInterval: 5,
         songstats: false,
         commandLiteral: "!",
