@@ -16,8 +16,8 @@
                     'deu-lhe um biscoito de chocolate. Oh, não, são passas. Eca!',
                     'deu-lhe um enorme biscoito. Quando o toca, ele se duplica num outro biscoito... estranho',
                     'deu-lhe um biscoito da sorte, tem escrito: "Por que você não está trabalhando?"',
-                    'deu-lhe um biscoito da sorte, tem escrito: "Comprimente agora a pessoa que você ama"',
-                    'deu-lhe um biscoito da sorte, tem escrito: "Chupe um negão!"',
+                    'deu-lhe um biscoito da sorte, tem escrito: "Cumprimente agora a pessoa que você ama"',
+                    'deu-lhe um biscoito da sorte, tem escrito: "Arrisque-se!"',
                     'deu-lhe um biscoito da sorte, tem escrito: "Saia desse computador!"',
                     'deu-lhe um biscoito da sorte, tem escrito: "Não esqueça de comer os vegetais"',
                     'deu-lhe um biscoito da sorte, tem escrito: "Se você mecher o quadril, vão te achar sexy!',
@@ -57,8 +57,8 @@
         bot.loadChat();
     }
         localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Sejam bem vindos a sala mais badalada do Plug.dj",
-        language: "portuguese",
+        botName: "Olá, bem vindo infeliz e volte sempre arrombado :point_right: :ok_hand: ",
+        language: "Portuguese",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/pt.json",
         startupCap: 1,
         startupVolume: 0,
