@@ -1,6 +1,6 @@
 (function () {
     //Nome de usuário de onde foi feito a cópia, assim você não precisa mudar tanta coisa.
-    var fork = "Yemasthui";
+    var fork = "Kelvin";
 		
     //Definir função pela extensão do bot.
     function extend() {
@@ -58,11 +58,11 @@
     //Mudar as configurações padrões do bot e ter certeza que elas foram carregadas corretamente
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "Fé em Deus que ele é justo.",
         language: "portuguese",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/pt.json",
-        startupCap: 1, // 1-200
-        startupVolume: 0, // 0-100
+        startupCap: 10, // 1-200
+        startupVolume: 50, // 0-100
         startupEmoji: false, // true ou false
         autowoot: true,
         smartSkip: true,
@@ -99,7 +99,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Mensagem do dia",
+        motd: "!roulette",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
